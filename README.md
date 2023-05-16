@@ -6,7 +6,7 @@ The project contains the World Bank report on the Access of Electricity througho
 
 ## Dashboard
 
-![Dashboard](https://github.com/Supriyam-Mishra/World-Bank-Electricity/blob/main/Screenshots/Dashboard.png?raw=true)
+![Dashboard](./Screenshots/Dashboard.png)
 
 
 ### Software and Tools Requirements
@@ -39,8 +39,44 @@ The project contains the World Bank report on the Access of Electricity througho
 - After getting the cleaned CSV file, Use Sql folder's [Query.sql](https://github.com/Supriyam-Mishra/World-Bank-Electricity/blob/main/SQL/Query.sql) file to perform the aggregations.
 - Copy the outputs of aggregation into [Excel File](https://github.com/Supriyam-Mishra/World-Bank-Electricity/blob/main/Dashboard.xlsx) and build an Interactive Dashboard.
 - Please go through [PPT File](https://github.com/Supriyam-Mishra/World-Bank-Electricity/blob/main/Dashboard.pptx) for better understanding of our Work.
+
+<br>
+
+# Hi, I'm Supriyam Mishra! 👋
+
+
+
+
+
+## 🚀 About Me
+I'm a Data Analyst Enthusiast, have honed my skills in data analysis, visualization,
+and machine learning. With hands-on experience in Python, SQL, Excel, and PowerBI, 
+I am proficient in extracting insights and delivering data-driven solutions. My 
+passion for data-driven decision making and problem-solving is evident in my work. 
+
+
+
+
+
 ## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/supriyam-mishra/)
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/supriyam-mishra-74b688261)
 
 
+
+
+## 🛠 Skills
+Excel (Knowledge of Lookups, Pivot Tables, Pivot
+charts and Dashboard),
+Python (Knowledge of EDA and libraries like Pandas,
+Numpy, Matplotlib),
+SQL (Knowledge of Database principles, Joins, Subqueries, Aggregate functions, Unions),
+PowerBI (Analytical & Visualization Skills, Designing
+interactive charts, graphs, plots and dashboards),
+Machine Learning (Basics of Machine Learning, EDA,
+Data wrangling, Model training, Regression,
+Classification)
+
+
+
+                                        
